@@ -11,7 +11,7 @@ pipeline {
         
           stage('Stage 2') {
             steps {
-                echo 'Stage 2 is working in dev branch'
+                echo 'Stage 2 is working in dev branch '
                 }
         
         }
