@@ -13,7 +13,6 @@ pipeline {
             steps {
                 echo 'Stage 2 clear in main branch  '
                 }
-        
         }
         
          stage('Stage 3') {
